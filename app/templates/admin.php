@@ -12,4 +12,5 @@ declare(strict_types=1);
 <div id="allinone" class="section">
 	<h2><?php p($l->t('Nextcloud All In One'));?></h2>
 	<a href="<?php p($_['AIOLoginUrl']);?>" class="button" target="_blank" rel="noopener">Open Nextcloud AIO Interface ↗</a>
+	<a href="https://github.com/nextcloud/all-in-one#how-to-easily-log-in-to-the-aio-interface">Click here for more infos on this feature (e.g. also on how to change the link in the button)</a>
 </div>
